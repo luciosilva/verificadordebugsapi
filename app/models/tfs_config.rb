@@ -1,0 +1,2 @@
+class TfsConfig < ApplicationRecord
+end
